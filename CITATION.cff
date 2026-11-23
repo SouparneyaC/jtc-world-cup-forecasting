@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "JTC World Cup Forecasting"
+type: software
+authors:
+  - family-names: Chakrabarti
+    given-names: Souparneya
+version: 0.1.0
+date-released: "2026-11-22"
+license: MIT
+repository-code: "https://github.com/SouparneyaC/jtc-world-cup-forecasting"
+abstract: "Point-in-time Elo ratings, Dixon-Coles goal models, an ordered-logit outcome model and count-statistic pricing, from one entry in a 2026 FIFA World Cup forecasting competition."

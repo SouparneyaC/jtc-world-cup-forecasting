@@ -1,0 +1,29 @@
+# secrets
+.env
+*.env
+*.pem
+*.key
+secrets.json
+*cookies*.json
+
+# python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+
+# generated output and third-party downloads
+out/
+results.csv
+
+# editor and OS
+.DS_Store
+.obsidian/
+.Rproj.user/
+.Rhistory
+.RData
